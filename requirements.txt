@@ -1,0 +1,4 @@
+CurrencyConverter==0.18.8
+pyTelegramBotAPI==4.28.0
+requests==2.32.4
+requests-oauthlib==2.0.0
